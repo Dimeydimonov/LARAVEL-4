@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LaravelQuerySettings">
+    <option name="filterDataSources" value="true" />
+    <option name="filteredDataSources">
+      <set>
+        <option value="74f360f3-9515-4feb-9158-9b05fbb6a762&lt;-/lq/-&gt;main" />
+      </set>
+    </option>
+    <option name="tablePrefix" value="LARAVEL3" />
+  </component>
+</project>
